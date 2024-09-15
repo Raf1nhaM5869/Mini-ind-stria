@@ -61,14 +61,23 @@ Quando o robô pega no produto, este é controlado através de um comando de Pla
 - `Fritzing`
   - O Fritzing foi usado para fazer o rascunho dos circuitos elétricos.
 
-<p align="center">
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download%20(3).png" width="200" />
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download.png" width="200" />
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download%20(1).png" width="200" />
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download%20(2).png" width="200" />
-</p>
+<div style="white-space: nowrap;">
+  <a href="https://www.arduino.cc/en/software">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download%20(3).png" width="200" style="display: inline-block;" />
+  </a>
 
+  <a href="https://www.autodesk.com/">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download.png" width="200" style="display: inline-block;" />
+  </a>
 
+  <a href="https://ultimaker.com/">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download%20(1).png" width="200" style="display: inline-block;" />
+  </a>
+
+  <a href="https://fritzing.org/">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download%20(2).png" width="200" style="display: inline-block;" />
+  </a>
+</div>
 
 ## Implementação
 No início do projeto, houve a compra de um kit de um braço robótico em acrílico. Contudo, através da montagem do mesmo, foi detetado diversas anomalias que iam afetar diretamente o devido funcionamento. Sendo assim, efetuei uma análise pormenorizada para solucionar os problemas apresentados no decorrer da montagem. Estes problemas incidiam na parte estrutural, uma vez que toda a estrutura do robô estava afixada no eixo de um motor servo e apresentava algumas peças partidas.
