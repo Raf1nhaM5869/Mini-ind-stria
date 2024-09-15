@@ -79,8 +79,12 @@ Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
 ## Peças fabricadas para o braço robótico
 ### Esta peça é um suporte do braço robótico
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raf1nhaM5869/Mini-industria/main/src/asseats/pe%C3%A7a1.3d.png" alt="Peça 3D" width="450"/>
-  <img src="https://raw.githubusercontent.com/Raf1nhaM5869/Mini-industria/main/src/asseats/IMG_20231211_163835.jpg" alt="Imagem" width="200"/>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/suporte_base.stl">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/pe%C3%A7a1.3d.png" alt="Base 3D" width="450"/>
+  </a>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231217_211504.jpg">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231217_211504.jpg" alt="Imagem 2" width="200"/>
+  </a>
 </p>
 
 ### Suporte da garra à restante estrutura
