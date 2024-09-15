@@ -61,6 +61,13 @@ Quando o robô pega no produto, este é controlado através de um comando de Pla
 - `Fritzing`
   - O Fritzing foi usado para fazer o rascunho dos circuitos elétricos.
 
+<p align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download%20(3).png" width="200" />
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download.png" width="200" />
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download%20(1).png" width="200" />
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/download%20(2).png" width="200" />
+</p>
+
 
 
 ## Implementação
