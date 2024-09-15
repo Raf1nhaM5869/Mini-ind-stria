@@ -107,11 +107,15 @@ Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
 </p>
 
 ### Disco da Base
-
 <p align="center">
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/disco_3d.png" alt="Peça 3D" width="450"/>
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231218_215923.jpg" alt="Imagem" width="280"/>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/suport_disco_robo.stl">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/disco_3d.png" alt="Base 3D" width="450"/>
+  </a>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231218_215923.jpg">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231218_215923.jpg" alt="Imagem 2" width="280"/>
+  </a>
 </p>
+
 
 ### Base do robô
 
