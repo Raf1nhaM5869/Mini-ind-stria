@@ -31,26 +31,29 @@ Quando o robô pega no produto, este é controlado através de um comando de Pla
 - `Borracha`
 - `Dois Cilindros de Plástico` 
 - `2 Motores de Passo` 
+  - Os motores de passos permitem movimentação da passadeira rolante. 
 - `Arduíno Uno`
+  - O Arduíno Uno permite controlar a velocidade dos motores de passo enviado dados para o módulo L298N e obtém informação através do sonar.
 - `Fios de Ligação` 
 - `Sonar`
 
 ### Equipamento extra
 - `Impressora 3D`
+  - A impressora 3D permitiu imprimir todas as peças. Assim, obtendo um melhor desempenho no projeto. A marca da impressora é TWO TREES
 - `Equipamento de Solda`
 - `Multímetro`
 - `Transformadores` 
 - `Paquímetro`
-- `Topia` (máquina)
+- `Topia`
 ### Software 
 - `Arduíno IDE`
+  - O Arduíno IDE foi o utilizado para programar todos os componentes, como por exemplo, o ESP32, Arduíno Uno, sonar, motores, etc. A linguagem utilizada foi o C++.
 - `Fusion 360`
+  - O fusion 360 é um programa de design 3D capaz de satisfazer as necessidades do projeto, uma vez que é possível fazer peças em 3D de uma forma rápida e precisa. Para além disso, no final do projeto, obtenho o ficheiro em STL, possibilitando a sua impressão. 
 - `Ultimaker Cura`
+  - O Ultimaker Cura é um programa que ajuda a conectar a impressora 3D e definir as características de impressão de cada peça. Através deste software, consegue-se mudar a temperatura de bico de impressão, percentagem de preenchimento, altura do bico ao prato de impressão, velocidade, etc.
 - `Fritzing`
-
-
-
-
+  - O Fritzing foi usado para fazer o rascunho dos circuitos elétricos.
 
 
 
@@ -59,4 +62,8 @@ No início do projeto, houve a compra de um kit de um braço robótico em acríl
 Sendo assim, para criar as estruturas necessárias, utilizou-se a impressora 3D, capaz de fabricar peças personalizadas (tridimensionais e feitas de plástico bastante resistente). 
 Assim, para melhorar o desempenho do robô, tive de recorrer à ferramenta anteriormente referia, sendo capaz de resolvê-los. Assim projetaram-se peças com recurso ao FUSION 360.
 
+Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro. 
 
+## Conclusão
+
+Em suma, o projeto foi bem concebido, uma vez que o objetivo inicial de fazer uma secção de indústria foi cumprido. Para além disso, o projeto pode apresentar diferente configurações tornando-o mais autónomo ou mais interativo. A configuração apresentada do robô é mais interativa devido ao objetivo final de apresentar a qualquer faixa etária. Sendo assim, o único pormenor que não foi realizado foi outra configuração mais autónoma em que o braço robótico e a passadeira comunicassem entre si. 
