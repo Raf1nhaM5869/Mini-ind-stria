@@ -91,8 +91,53 @@ Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
 
 <p align="center">
   <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/disco_3d.png" alt="Peça 3D" width="450"/>
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231218_215922.jpg" alt="Imagem" width="200"/>
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231218_215923.jpg" alt="Imagem" width="280"/>
 </p>
+
+### Base do robô
+<p align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/base_3d.png" alt="Peça 3D" width="450"/>
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231217_211504.jpg" alt="Imagem" width="280"/>
+</p>
+Logo após a criação das peças no fusion 360, estas foram impressas na impressora 3D. Depois de finalizar a impressão 3D, houve a montagem de todas as peças.
+
+### Instalação do circuito elétrico do robô
+ <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/robo_circuito.png" alt="invited">
+
+## Peças fabricadas para a passadeira rolante
+Na passadeira rolante houve também a necessidade de recorrer ao uso da impressão 3D, para obter estabilidade e mobilidade do tapete. Sendo assim, fiz quatro peças que são as seguintes:
+
+Esta peça foi impressa duas vezes para bloquear  a movimentação do rolo de plástico (na horizontal) para não alterar a trajetória.
+
+<p align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/image.png" alt="Peça 3D" width="450"/>
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240428_230101.jpg" alt="Imagem" width="310"/>
+</p>
+
+Esta peça foi impressa duas vezes. O objetivo desta peça é igual ao da figura 1, mas também tem outro objetivo que é protege os motores, caso o tapete rolante altere a trajetória.
+
+<p align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/image1.png" alt="Peça 3D" width="450"/>
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143739.jpg" alt="Imagem" width="350"/>
+</p>
+
+Esta peça estabelece a ligação entre os motores de passo e a passadeira, transmitindo-lhe movimento. Esta tem uma lixa tem toda a sua volta, para ter maior atrito entre a peça e a borracha, obtendo maior eficiência.
+
+<p align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/imagem2.png" alt="Peça 3D" width="400"/>
+</p>
+
+Esta peça é um suporte do sensor ultrassónico para possibilitar a deteção o objeto.
+
+<p align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/imagem3.PNG" alt="Peça 3D" width="450"/>
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143821.jpg" alt="Imagem" width="350"/>
+</p>
+
+### Instalação do circuitos elétricos da passadeira rolante
+
+<img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/passadeira_circuito.png" alt="invited">
+
 
 ## Conclusão
 
