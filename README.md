@@ -168,10 +168,11 @@ Esta peça foi impressa duas vezes para bloquear a movimentação do rolo de pl�
 
 Esta peça foi impressa duas vezes. O objetivo desta peça é igual ao da figura 1, mas também tem outro objetivo que é protege os motores, caso o tapete rolante altere a trajetória.
 ### Rolo Giratório
-
 <p align="center">
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/imagem2.png" alt="Peça 3D" width="400"/>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/rolo_giratorio.stl">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/imagem2.png" alt="Base 3D" width="450"/>
 </p>
+
 Esta peça estabelece a ligação entre os motores de passo e a passadeira, transmitindo-lhe movimento. Esta tem uma lixa tem toda a sua volta, para ter maior atrito entre a peça e a borracha, obtendo maior eficiência.
 
 ### Suporte do sonar
@@ -184,12 +185,6 @@ Esta peça estabelece a ligação entre os motores de passo e a passadeira, tran
   </a>
 </p>
 
-
-
-<p align="center">
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/imagem3.PNG" alt="Peça 3D" width="450"/>
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143821.jpg" alt="Imagem" width="350"/>
-</p>
 Esta peça é um suporte do sensor ultrassónico para possibilitar a deteção o objeto.
 
 ### Instalação do circuitos elétricos da passadeira rolante
