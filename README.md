@@ -139,9 +139,6 @@ Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
 
 Logo após a criação das peças no fusion 360, estas foram impressas na impressora 3D. Depois de finalizar a impressão 3D, houve a montagem de todas as peças.
 
-[![Base 3D](https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/base_3d.png)](https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/base.stl)
-
-
 ### Instalação do circuito elétrico do robô
  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/robo_circuito.png" alt="invited">
 
@@ -154,7 +151,7 @@ Na passadeira rolante houve também a necessidade de recorrer ao uso da impress�
     <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/image.png" alt="Base 3D" width="450"/>
   </a>
   <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240428_230101.jpg">
-    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240428_230101.jpg" alt="Imagem 2" width="200"/>
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240428_230101.jpg" alt="Imagem 2" width="310"/>
   </a>
 </p>
 
@@ -178,6 +175,16 @@ Esta peça foi impressa duas vezes. O objetivo desta peça é igual ao da figura
 Esta peça estabelece a ligação entre os motores de passo e a passadeira, transmitindo-lhe movimento. Esta tem uma lixa tem toda a sua volta, para ter maior atrito entre a peça e a borracha, obtendo maior eficiência.
 
 ### Suporte do sonar
+<p align="center">
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/suporte_sonar.stl">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/imagem3.PNG" alt="Base 3D" width="450"/>
+  </a>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143821.jpg">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143821.jpg" alt="Imagem 2" width="350"/>
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/imagem3.PNG" alt="Peça 3D" width="450"/>
