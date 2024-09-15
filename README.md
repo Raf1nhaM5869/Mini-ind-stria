@@ -102,10 +102,16 @@ Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
 </p>
 
 ### Base do robô
+
 <p align="center">
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/base_3d.png" alt="Peça 3D" width="450"/>
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231217_211504.jpg" alt="Imagem" width="280"/>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/base.stl">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/base_3d.png" alt="Base 3D" width="450"/>
+  </a>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231217_211504.jpg">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231217_211504.jpg" alt="Imagem 2" width="280"/>
+  </a>
 </p>
+
 Logo após a criação das peças no fusion 360, estas foram impressas na impressora 3D. Depois de finalizar a impressão 3D, houve a montagem de todas as peças.
 
 [![Base 3D](https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/base_3d.png)](https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/base.stl)
