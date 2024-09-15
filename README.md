@@ -9,6 +9,7 @@ No ano letivo 2023/2024, no seguimento da apresentação de atividades de Físic
 O projeto consiste na simulação do funcionamento de uma secção da indústria, utilizando um braço mecânico e uma passadeira rolante, com os respetivos motores e circuitos, tendo também em conta a sustentabilidade do projeto, que reutilizou materiais, dando-lhes novo uso.
 O principal objetivo foi simular uma linha de montagem, que através da união das áreas anteriormente referias, foi possível criar uma passadeira rolante e um pequeno robô, capazes de transportar objetos, através de um comando de PlayStation 3.
 
+
 ## Objetivo do projeto
 Na elaboração do projeto, tive como objetivo criar um braço robótico capaz de movimentar um objeto através de motores servos e uma passadeira que transporta um objeto de uma forma estável e rápida.  
 Sendo assim, com a criação da passadeira rolante e do braço robótico o funcionamento deveria ser o seguinte: o produto fabricado chegava ao início da passadeira rolante, e este ia percorrer até alcançar o final da mesma. Logo a seguir, o produto para e o robô está pronto a pegá-lo e deslocá-lo para o local desejado. 
@@ -48,7 +49,9 @@ Quando o robô pega no produto, este é controlado através de um comando de Pla
 ### Software 
 - `Arduíno IDE`
   - O Arduíno IDE foi o utilizado para programar todos os componentes, como por exemplo, o ESP32, Arduíno Uno, sonar, motores, etc. A linguagem utilizada foi o C++.
-- `Fusion 360`
+  - <img src="https://raw.githubusercontent.com/Raf1nhaM5869/Mini-industria/main/src/asseats/download%20(3).png" alt="menu" width="200px" height="200px">
+
+- `Fusion 360` 
   - O fusion 360 é um programa de design 3D capaz de satisfazer as necessidades do projeto, uma vez que é possível fazer peças em 3D de uma forma rápida e precisa. Para além disso, no final do projeto, obtenho o ficheiro em STL, possibilitando a sua impressão. 
 - `Ultimaker Cura`
   - O Ultimaker Cura é um programa que ajuda a conectar a impressora 3D e definir as características de impressão de cada peça. Através deste software, consegue-se mudar a temperatura de bico de impressão, percentagem de preenchimento, altura do bico ao prato de impressão, velocidade, etc.
@@ -63,6 +66,12 @@ Sendo assim, para criar as estruturas necessárias, utilizou-se a impressora 3D,
 Assim, para melhorar o desempenho do robô, tive de recorrer à ferramenta anteriormente referia, sendo capaz de resolvê-los. Assim projetaram-se peças com recurso ao FUSION 360.
 
 Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro. 
+## Peças fabricadas para o braço robótico
+Esta peça é um suporte do braço robótico.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raf1nhaM5869/Mini-industria/main/src/asseats/pe%C3%A7a1.3d.png" alt="Peça 3D" width="450"/>
+  <img src="https://raw.githubusercontent.com/Raf1nhaM5869/Mini-industria/main/src/asseats/IMG_20231211_163835.jpg" alt="Imagem" width="200"/>
+</p>
 
 ## Conclusão
 
