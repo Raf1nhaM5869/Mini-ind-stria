@@ -150,16 +150,23 @@ Na passadeira rolante houve também a necessidade de recorrer ao uso da impress�
 
 ### Espaçador
 <p align="center">
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/image.png" alt="Peça 3D" width="450"/>
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240428_230101.jpg" alt="Imagem" width="310"/>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/roda.stl">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/image.png" alt="Base 3D" width="450"/>
+  </a>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240428_230101.jpg">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240428_230101.jpg" alt="Imagem 2" width="200"/>
+  </a>
 </p>
 
 Esta peça foi impressa duas vezes para bloquear a movimentação do rolo de plástico (na horizontal) para não alterar a trajetória.
 ### Disco Protetor
-
 <p align="center">
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/image1.png" alt="Peça 3D" width="450"/>
-  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143739.jpg" alt="Imagem" width="350"/>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/disco_protect.stl">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/image1.png" alt="Base 3D" width="450"/>
+  </a>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143739.jpg">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143739.jpg" alt="Imagem 2" width="350"/>
+  </a>
 </p>
 
 Esta peça foi impressa duas vezes. O objetivo desta peça é igual ao da figura 1, mas também tem outro objetivo que é protege os motores, caso o tapete rolante altere a trajetória.
