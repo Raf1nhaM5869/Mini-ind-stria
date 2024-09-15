@@ -89,11 +89,11 @@ Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
 
 ### Suporte da garra à restante estrutura
 <p align="center">
-  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/pe%C3%A7a2.3d.png">
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/suport_cabe%C3%A7a2.stl">
     <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/pe%C3%A7a2.3d.png" alt="Base 3D" width="450"/>
   </a>
-  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/pe%C3%A7a3.d.png">
-    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231211_163835.jpg" alt="Imagem 2" width="4"/>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/suport_cabe%C3%A7a.stl">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/pe%C3%A7a3.d.png" alt="Imagem 2" width="450"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@ Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
     <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143653.jpg" alt="Base 3D" width="450"/>
   </a>
   <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143512.jpg">
-    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143512.jpg" alt="Imagem 2" width="4"/>
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143512.jpg" alt="Imagem 2" width="450"/>
   </a>
 </p>
 
