@@ -108,7 +108,7 @@ Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
 </p>
 Logo após a criação das peças no fusion 360, estas foram impressas na impressora 3D. Depois de finalizar a impressão 3D, houve a montagem de todas as peças.
 
-[![Base 3D](https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/base_3d.png)](https://github.com/Raf1nhaM5869/Mini-industria)
+[![Base 3D](https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/base_3d.png)](https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/base.stl)
 
 
 ### Instalação do circuito elétrico do robô
