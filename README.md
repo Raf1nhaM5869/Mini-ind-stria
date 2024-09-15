@@ -1,4 +1,8 @@
 # Mini Indústria - Robótica
+<div align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/robo.png" alt="invited">
+</div>
+
 
 ## Realizador
 - Rafael Melo (up202405969@fe.up.pt)
@@ -49,7 +53,6 @@ Quando o robô pega no produto, este é controlado através de um comando de Pla
 ### Software 
 - `Arduíno IDE`
   - O Arduíno IDE foi o utilizado para programar todos os componentes, como por exemplo, o ESP32, Arduíno Uno, sonar, motores, etc. A linguagem utilizada foi o C++.
-  - <img src="https://raw.githubusercontent.com/Raf1nhaM5869/Mini-industria/main/src/asseats/download%20(3).png" alt="menu" width="200px" height="200px">
 
 - `Fusion 360` 
   - O fusion 360 é um programa de design 3D capaz de satisfazer as necessidades do projeto, uma vez que é possível fazer peças em 3D de uma forma rápida e precisa. Para além disso, no final do projeto, obtenho o ficheiro em STL, possibilitando a sua impressão. 
@@ -67,10 +70,28 @@ Assim, para melhorar o desempenho do robô, tive de recorrer à ferramenta anter
 
 Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro. 
 ## Peças fabricadas para o braço robótico
-Esta peça é um suporte do braço robótico.
+### Esta peça é um suporte do braço robótico
 <p align="center">
   <img src="https://raw.githubusercontent.com/Raf1nhaM5869/Mini-industria/main/src/asseats/pe%C3%A7a1.3d.png" alt="Peça 3D" width="450"/>
   <img src="https://raw.githubusercontent.com/Raf1nhaM5869/Mini-industria/main/src/asseats/IMG_20231211_163835.jpg" alt="Imagem" width="200"/>
+</p>
+
+### Suporte da garra à restante estrutura
+
+<p align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/pe%C3%A7a2.3d.png" alt="Peça 3D" width="450"/>
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/pe%C3%A7a3.d.png" alt="Imagem" width="450"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143653.jpg" alt="Peça 3D" width="450"/>
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240914_143512.jpg" alt="Imagem" width="450"/>
+</p>
+
+### Disco da Base
+
+<p align="center">
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/disco_3d.png" alt="Peça 3D" width="450"/>
+  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231218_215922.jpg" alt="Imagem" width="200"/>
 </p>
 
 ## Conclusão
