@@ -137,7 +137,16 @@ Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
   </a>
 </p>
 
-Logo após a criação das peças no fusion 360, estas foram impressas na impressora 3D. Depois de finalizar a impressão 3D, houve a montagem de todas as peças.
+Logo após a criação das peças no fusion 360, estas foram impressas na impressora 3D. Depois de finalizar a impressão 3D, houve a montagem de todas as peças. Antes / depois, respetivamente.
+
+<p align="center">
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231128_140823.jpg">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20231128_140823.jpg" alt="Base 3D" width="425"/>
+  </a>
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240115_205545.jpg">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240115_205545.jpg" alt="Imagem 2" width="340"/>
+  </a>
+</p>
 
 ### Instalação do circuito elétrico do robô
  <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/robo_circuito.png" alt="invited">
@@ -186,6 +195,13 @@ Esta peça estabelece a ligação entre os motores de passo e a passadeira, tran
 </p>
 
 Esta peça é um suporte do sensor ultrassónico para possibilitar a deteção o objeto.
+
+Após a impressão das peças, houve a montagem. 
+
+<p align="center">
+  <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240916_205601.jpg">
+    <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/IMG_20240916_205601.jpg" alt="Base 3D" width="500"/>
+</p>
 
 ### Instalação do circuitos elétricos da passadeira rolante
 
