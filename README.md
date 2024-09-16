@@ -84,9 +84,10 @@ No início do projeto, houve a compra de um kit de um braço robótico em acríl
 Sendo assim, para criar as estruturas necessárias, utilizou-se a impressora 3D, capaz de fabricar peças personalizadas (tridimensionais e feitas de plástico bastante resistente). 
 Assim, para melhorar o desempenho do robô, tive de recorrer à ferramenta anteriormente referia, sendo capaz de resolvê-los. Assim projetaram-se peças com recurso ao FUSION 360.
 
-Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro. 
+Nota: Para obter as medidas das peças desejadas necessitei de um paquímetro.
 ## Peças fabricadas para o braço robótico
 ### Esta peça é um suporte do braço robótico
+Cada imagem está associada a um ficheiro stl da peça.
 <p align="center">
   <a href="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/objetos%203d/suporte_base.stl">
     <img src="https://github.com/Raf1nhaM5869/Mini-industria/blob/main/src/asseats/pe%C3%A7a1.3d.png" alt="Base 3D" width="450"/>
